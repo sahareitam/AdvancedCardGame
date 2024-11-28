@@ -1,4 +1,4 @@
-# Assignment 4 - Advanced Card Game Simulation
+# Assignment 2 - Advanced Card Game Simulation
 
 ## Overview
 This project extends the basic card game simulation by introducing new gameplay mechanics, additional classes, and object-oriented programming concepts such as inheritance and polymorphism. It features various characters and advanced interactions.
