@@ -1,4 +1,4 @@
-# Assignment 3 - Basic Card Game Simulation
+# Assignment 1 - Basic Card Game Simulation
 
 ## Overview
 This project implements a basic card game simulation using object-oriented programming principles. It includes classes for cards and a deck, and demonstrates foundational OOP concepts such as encapsulation and modular design.
